@@ -23,26 +23,37 @@ Features:
 
 🎮 Tech Stack:
 Python 3
+
 Tkinter (GUI Library)
 
 Game Modes:
-👥 Player vs Player
+👥 Player vs Player:
+
 Two players enter their names
+
 Choose X or O
+
 Play turn by turn
-🤖 Player vs Computer
+
+🤖 Player vs Computer:
+
 Play against Smart AI
+
 AI blocks winning moves and plays strategically
 
 🧠 AI Strategy : The AI follows this priority:
-Win if possible
-Block opponent’s winning move
-Take center position
-Take corner positions
+
+Win if possible,
+Block opponent’s winning move,
+Take center position,
+Take corner positions,
 Choose any available cell
 
 
 📊 Scoreboard : Tracks:
+
 Player X wins
+
 Player O wins
+
 Draw matches
